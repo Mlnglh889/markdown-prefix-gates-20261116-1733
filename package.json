@@ -1,0 +1,10 @@
+{
+  "name": "markdown-prefix-gates",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.mjs",
+    "bench": "node bench.mjs"
+  }
+}
